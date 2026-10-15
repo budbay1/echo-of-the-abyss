@@ -1,0 +1,42 @@
+[
+  {
+    "id": "forest",
+    "title": "Takina & Yndrial",
+    "date": "July 12, 2026",
+    "url": "https://echooftheabyss.blogspot.com/2026/07/prologue-takina-yndrial.html",
+    "paragraphs": [
+      "Tracking a missing alchemical wagon for the apothecary Almaes, the halfling monk Takina is suddenly ambushed on the forest path. Moving with martial precision, he retaliates by cracking a bandit with his quarterstaff, immediately following up with a definitive, ringing backhand slap that drops the rogue face-first into the mud.",
+      "Pressing forward, Takina finds where the path drops into a steep, shadowed gulf. To maintain tactical superiority, he navigates a secondary ledge running high along the middle side. His caution is rewarded with a trap of a different kind: a secondary ambush party steps from the treeline, locking him into a fresh, dangerous skirmish right there on the middle ledge.",
+      "Deep in the surrounding forest, the elven druid Yndrial investigates a foul chemical odor, discovering a stream running dark blue with toxic runoff. Following the pollution upstream to its source, he finds a shattered supply crate bearing Almaes' mark.",
+      "Nearby, Yndrial catches two cruel bandits tormenting a deer caught in a snare. Ducking behind a massive tree trunk for cover, Yndrial unleashes his magic, casting Blindness on one of the raiders, and successfully fights off and defeats both bandits. Only after the threat is entirely resolved does the loud commotion of shouting and fighting echo from the ridge nearby, prompting Yndrial to head toward the noise to investigate.",
+      "Yndrial emerges on the top ridge overlooking the gulf and spots Takina fiercely engaged with ambushers on the middle ledge below. Dropping down from the top ridge to the middle ledge to aid the monk, Yndrial aligns with Takina. Together the pair fight off the bandits on the middle ledge with the encounter ending when Yndrial fires a Fire Bolt directly into the chest of a bandit, sending him flying down into the trench below. The group then launch a counter-attack against the bandits in the trench below who are trying to haul the wagon through deep mud and ruts.",
+      "Realizing the tide has completed turned with the heroes attacking from the ledge above the panicked bandits abandon the alchemical cargo, give up on trying to move the wagon, and flee deeper into the forest for their own safety.",
+      "With the valley quieted down, the two travelers introduce themselves. Realizing they are both working toward the same goal for Almaes, they secure the wagon and resolve to return to Ashebenford together as allies."
+    ],
+    "images": [
+      "assets/forest-0.webp"
+    ]
+  },
+  {
+    "id": "stables",
+    "title": "Juan & Caelen",
+    "date": "October 4, 2026",
+    "url": "https://echooftheabyss.blogspot.com/2026/10/prologue-juan-caelen.html",
+    "paragraphs": [
+      "Twilight settles over Ashabenford, muting the frontier town in shadows and rain. Behind the heavy oak doors of his apothecary, Almaes turns the deadbolt shut and ushers Juan Senna and Caelen Thorn into a cramped back room crowded with drying lavender and pungent bundles of bitter roots. A critical wagon of alchemical supplies inbound from the Dales has vanished without a trace, and Almaes has uncovered treason within his own payroll: his trusted teamster, Hennick, forged the cargo manifest and is preparing to skip town under cover of darkness. The task is straightforward—track Hennick to the livery stables, extract what he knows, and haul him back alive.",
+      "Arriving at the stables, Juan and Caelen pause outside the heavy timber doors, catching the faint rustle of straw and the shifting of horses within. Slipping into the lantern-lit interior, they find Hennick tucked into a stall, a red cloth masking his face as his trembling hands frantically cinch a saddle onto a horse. Before they can secure him, the rear barn doors creak open, admitting two cutthroats stepping out of the dusk with drawn swords, arriving to escort the turncoat out of town.",
+      "Seeing violence spark, Hennick panics and tries to bolt for the opening, but Juan Senna moves instantly to cut him off, planting his frame in the aisle and slamming the teamster's escape route shut. Trapped in the stall, Hennick cowers as the two swordsmen lunge forward to force a path.",
+      "The clash is brief and brutal. The lead bandit presses the attack with his blade, but he is swiftly outmatched, taking a crushing blow that leaves him bleeding and broken on the stable floor.",
+      "Seeing his partner dropped and the job collapse, the surviving bandit panics, turns on his heel, and sprints toward the barn doors in a desperate bid to flee into the dark. He never makes it out. A javelin tears through the air and strikes him squarely in the back, dropping him dead across the threshold. Neither bandit leaves the stable alive.",
+      "Staring at the bodies of his escorts and cornered by Juan Senna, Hennick’s nerve shatters completely. The teamster collapses into the straw, shaking so uncontrollably with terror that he visibly pees himself, soaking through his trousers onto the barn floor as he weeps and begs for his life.",
+      "While Caelen retrieves the bloodied javelin from the fallen runner, Juan hoists the disgraced, sopping teamster to his feet. Broken and sobbing, Hennick spills the entire conspiracy. Nights earlier in a crowded taphouse, a hooded stranger had slid a purse of coin across his table. In exchange, Hennick doctored the travel manifest, intentionally routing the alchemical wagon down the sunken trench of the Moonsea Ride—straight into a prepared ambush laid by Caster \"The Rook\" Vane and his highwaymen. The only detail Hennick remembers of the handler was a black crow branded directly into the meat of the man's forearm.",
+      "Binding their shivering captive, Juan and Caelen march Hennick through the quiet streets and kick open the front door of Almaes’ apothecary. Shoving the prisoner into the back room, they find Almaes already deep in conference with two travelers who have just stepped in from the wilderness: the halfling monk Takina and the druid Yndrial, who have just returned from securing the wagon out on the Moonsea Ride. With the traitor in custody and the ambush uncovered, the scattered threads of the conspiracy have finally knotted together in Ashabenford."
+    ],
+    "images": [
+      "assets/stables-0.webp",
+      "assets/stables-1.webp",
+      "assets/stables-2.webp",
+      "assets/stables-3.webp"
+    ]
+  }
+]
