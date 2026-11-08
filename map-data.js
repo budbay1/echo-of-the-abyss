@@ -1,5 +1,4 @@
-// Canonical campaign records. Keep map artwork and per-map placements separate.
-// World coordinates are regional context on the 3e geographic reference, not measured travel distances.
+// Positions are schematic, not measured travel coordinates.
 window.campaignMapData = {
   "defaultMap": "faerun",
   "maps": {
@@ -80,6 +79,15 @@ window.campaignMapData = {
         "y": 236
       },
       "precision": "Approximate route in the Dalelands"
+    },
+    "briarfall-trail": {
+      "name": "Briarfall trail, Cormanthor",
+      "region": "mistledale",
+      "world": {
+        "x": 915,
+        "y": 260
+      },
+      "precision": "Schematic forest location; exact coordinates unknown"
     }
   },
   "chapters": [
@@ -90,6 +98,10 @@ window.campaignMapData = {
     {
       "id": "stables",
       "name": "Juan & Caelen"
+    },
+    {
+      "id": "session-01",
+      "name": "Session 1: The Price of Passage"
     }
   ],
   "contextCities": [
@@ -255,20 +267,20 @@ window.campaignMapData = {
       "id": "party",
       "name": "The party’s last known location",
       "type": "party",
-      "x": 547,
-      "y": 296,
+      "x": 910,
+      "y": 310,
       "anchor": [
-        532,
-        360
+        880,
+        285
       ],
-      "precision": "Almaes’ apothecary · end of the prologues",
-      "summary": "Juan, Caelen, Takina, and Yndrial are together in Ashabenford at the close of the prologues. This records their last known position, rather than live travel.",
+      "precision": "Briarfall trail · approximate forest location",
+      "summary": "After three days on the Moonsea Ride, the party entered Cormanthor on day four. Session 1 ends at a bandit roadblock on the Briarfall trail after combat and looting. Exact location is not established.",
       "sessions": [
-        "stables"
+        "session-01"
       ],
       "entries": [
-        "almaes",
-        "ashabenford"
+        "briarfall",
+        "moonsea"
       ],
       "characters": [
         "juan",
@@ -276,7 +288,7 @@ window.campaignMapData = {
         "takina",
         "yndrial"
       ],
-      "locationId": "ashabenford"
+      "locationId": "briarfall-trail"
     }
   ]
 };

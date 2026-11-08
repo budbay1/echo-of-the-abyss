@@ -38,5 +38,42 @@
       "assets/stables-2.webp",
       "assets/stables-3.webp"
     ]
+  },
+  {
+    "id": "session-01",
+    "title": "The Price of Passage",
+    "date": "November 7, 2026",
+    "kind": "Session 1",
+    "eyebrow": "Into Cormanthor",
+    "description": "Two relics to recover. A false toll on the forest trail. The party’s first battle together leaves one enemy at large.",
+    "paragraphs": [
+      "In Almaes’ workshop in Ashabenford, four adventurers finally stand together. Takina and Yndrial have recovered the apothecary’s missing wagon; Juan Senna and Caelen Thorn have uncovered the man who betrayed it. With both tasks complete, Almaes offers the newly assembled company two leads into Cormanthor—and a warning to understand who stands before them before reaching for a sword.",
+      "The first destination is Briarfall, an old logging settlement built over ancient elven songwork. Part of the camp has collapsed into the ruins below, and a charcoal rubbing recovered from the excavation describes an elven survey lens set in a silver frame. Almaes offers two hundred gold pieces for its recovery, provided the instrument returns intact. The second lead points toward Blackthorn, a little-known village somewhere south of Briarfall. A dark rod unearthed beneath old roots was offered for sale there, then abruptly withdrawn. The party’s task is to find its owner and negotiate a purchase.",
+      "The companions accept both jobs. Almaes supplies travel money, healing potions, provisions, and a separate purse of one hundred fifty gold pieces to purchase the rod. Before departure, he also agrees to use his contacts to seek news of a missing cousin. With extra rations purchased and the heavier equipment redistributed, the party rests before setting out east along the Moonsea Ride.",
+      "For three days, the journey offers little trouble. Merchants, travelers, and occasional patrols share the road, and the companions’ watches pass quietly. On the fourth morning, a weathered sign points southeast toward Briarfall. Leaving the main road behind, they enter Cormanthor, following an old logging trail through dense woodland. Further markers guide them onward as smaller paths branch into the trees.",
+      "Late in the day, a fallen tree blocks the trail. A burly, dark-haired swordsman waits beside it, demanding five silver pieces per traveler for “road maintenance,” with an additional charge for cargo. The companions refuse. When they attempt to pass, his whistle brings three armed accomplices into view—two behind the logs and another in a watchtower. The supposed maintenance fee reveals itself as a bandit shakedown.",
+      "The confrontation turns violent. Yndrial blinds one of the concealed attackers while Juan flies into a rage and drives a heavy blow into the swordsman confronting him. Takina answers an incoming shot with extraordinary precision: catching the missile, he hurls it into the blinded bandit’s face, dropping him behind the fallen timber. Another attacker wounds the monk, but Caelen’s Dissonant Whispers bring that assailant down in a screaming collapse. The bard then turns his music toward Takina, whose inspired bowshot sends the watchtower lookout tumbling from his perch.",
+      "With his three accomplices dead, the surviving swordsman breaks and runs. Yndrial’s spores leave him coughing as he passes, but fire, a thrown javelin, and a crossbow shot fail to stop his escape. Takina races after him through the undergrowth and lands further blows, yet the fugitive pushes deeper into the tangled forest. His shouted threats linger after the sounds of his flight fade away.",
+      "The party chooses to abandon the chase and return to its larger task. Searching the fallen bandits yields seventeen gold pieces and four silver, and Juan adds a light crossbow to his equipment. Their first battle as a company is won, but one enemy remains loose in the woods. Briarfall still lies ahead, its buried elven instrument unrecovered, while the mystery of Blackthorn’s withdrawn relic waits beyond it."
+    ],
+    "images": [],
+    "characters": [
+      "takina",
+      "yndrial",
+      "juan",
+      "caelen"
+    ],
+    "entries": [
+      "almaes",
+      "moonsea",
+      "briarfall",
+      "blackthorn"
+    ],
+    "downs": {
+      "Takina": 2,
+      "Caelen": 1,
+      "Juan Senna": 0,
+      "Yndrial": 0
+    }
   }
 ]
