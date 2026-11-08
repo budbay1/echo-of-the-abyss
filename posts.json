@@ -56,7 +56,11 @@
       "With his three accomplices dead, the surviving swordsman breaks and runs. Yndrial’s spores leave him coughing as he passes, but fire, a thrown javelin, and a crossbow shot fail to stop his escape. Takina races after him through the undergrowth and lands further blows, yet the fugitive pushes deeper into the tangled forest. His shouted threats linger after the sounds of his flight fade away.",
       "The party chooses to abandon the chase and return to its larger task. Searching the fallen bandits yields seventeen gold pieces and four silver, and Juan adds a light crossbow to his equipment. Their first battle as a company is won, but one enemy remains loose in the woods. Briarfall still lies ahead, its buried elven instrument unrecovered, while the mystery of Blackthorn’s withdrawn relic waits beyond it."
     ],
-    "images": [],
+    "images": [
+      "assets/session-01-almaes-rubbing.webp",
+      "assets/session-01-moonsea-ride.webp",
+      "assets/session-01-bandit-roadblock.webp"
+    ],
     "characters": [
       "takina",
       "yndrial",
@@ -74,6 +78,10 @@
       "Caelen": 1,
       "Juan Senna": 0,
       "Yndrial": 0
+    },
+    "imagePlacements": {
+      "3": 1,
+      "5": 2
     }
   }
 ]
